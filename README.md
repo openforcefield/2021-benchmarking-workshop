@@ -1,7 +1,7 @@
 # 2021-benchmarking-workshop
 Materials for the 2021 OpenFF benchmarking workshop
 
-Intallation instructions
+Installation instructions
 
 1. Clone the repository:
 
