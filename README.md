@@ -40,11 +40,15 @@ You will need this for the below instructions.
 
 1. Open a terminal on your local host, and run the following, noting `<port>` from the server output above:
 
-    ssh -N -L 8801:localhost:<port> <remote-host>
+```
+ssh -N -L 8801:localhost:<port> <remote-host>
+```
 
 2. In a web browser on your local host, enter the following in the URL bar
 
-    localhost:8801
+```
+localhost:8801
+```
 
 3. Copy the token from the terminal running the server.
    It should be among the output like that given above, where `<token-content>` is shown.
