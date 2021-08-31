@@ -22,7 +22,6 @@ conda activate 2021-benchmarking-workshop
 
 ```
 jupyter notebook workshop.ipynb
-
 ```
 
 ### Using a remote environment
